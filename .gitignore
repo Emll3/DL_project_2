@@ -12,3 +12,6 @@ __pycache__/
 #data
 recordings/
 
+#claude
+.claude/
+
