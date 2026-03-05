@@ -15,3 +15,5 @@ recordings/
 #claude
 .claude/
 
+#models
+models/
