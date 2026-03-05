@@ -15,5 +15,6 @@ recordings/
 #claude
 .claude/
 
-#models
-models/
+#models – ignore checkpoints, keep best weights
+models/*_checkpoint_*.pt
+models/label_classes.npy
